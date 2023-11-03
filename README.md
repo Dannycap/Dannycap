@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Danny Capozzi
 - 👀 I’m interested in financial modeling with Python, Excel and Power Bi.
-- 🌱 I’m currently learning R and MATLAB
 - 📫 How to reach me linkedin.com/in/danny-capozzi
 
 <!---
